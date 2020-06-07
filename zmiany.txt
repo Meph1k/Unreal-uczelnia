@@ -1,0 +1,6 @@
+Co zostało zmienione od ostatniej wersji aplikacji:
+
+- Dodane więcej wybuchowych beczek
+- Dodano więcej tekstur
+- Dodano przeciwnika, który goni
+- Zadawanie obrażeń
